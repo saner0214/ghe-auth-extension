@@ -1,0 +1,9 @@
+.vscode/**
+.vscode-test/**
+node_modules/**
+.omc/**
+.git/**
+.gemini/**
+.DS_Store
+*.log
+*.vsix
